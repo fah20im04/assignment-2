@@ -23,6 +23,9 @@
 .subtitle{
   color: rgba(0, 0, 0, 0.5)
 }
+.color{
+  colr: #FFFFFF;
+}
 @media screen and (min-width<=640px) {
   .meadia{
     flex-direction: column;
