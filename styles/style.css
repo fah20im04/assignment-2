@@ -1,0 +1,23 @@
+.noto-serif {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.nav-icon{
+  color: #252432;
+}
+.nav-greyicon{
+  color: #8987A1;
+}
+/* shared class color orange*/
+.subtitle{
+  color: rgba(0, 0, 0, 0.5)
+}
+@media screen and (min-width<=640px) {
+  .meadia{
+    flex-direction: column;
+  }
+}
