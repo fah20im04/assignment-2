@@ -26,6 +26,10 @@
 .color{
   colr: #FFFFFF;
 }
+.joinbar{
+  width: 100%;
+  height: 95%;
+}
 @media screen and (min-width<=640px) {
   .meadia{
     flex-direction: column;
